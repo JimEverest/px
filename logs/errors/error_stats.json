@@ -1,0 +1,50 @@
+{
+  "total_errors": 22,
+  "errors_by_severity": {
+    "low": 6,
+    "medium": 4,
+    "high": 11,
+    "critical": 1
+  },
+  "errors_by_category": {
+    "pac_validation": 4,
+    "pac_loading": 0,
+    "network": 5,
+    "proxy": 8,
+    "configuration": 0,
+    "authentication": 0,
+    "system": 5,
+    "ui": 0
+  },
+  "errors_by_hour": {
+    "2025-09-07 17:00": 22
+  },
+  "errors_by_day": {
+    "2025-09-07": 22
+  },
+  "most_common_errors": {
+    "network:Test info message #1": 1,
+    "proxy:Test warning message #2": 1,
+    "system:Test info message #3": 1,
+    "pac_validation:Test info message #4": 1,
+    "network:Test info message #5": 1,
+    "proxy:Test error message #6": 1,
+    "system:Test critical error #7": 1,
+    "pac_validation:PAC validation failed #8": 1,
+    "network:Network connection error #9": 1,
+    "proxy:Proxy service error #10": 1,
+    "proxy:Proxy service error #11": 1,
+    "proxy:Proxy service error #12": 1,
+    "system:System error #13": 1,
+    "system:System error #14": 1,
+    "proxy:Proxy service connection failed": 1,
+    "pac_validation:Batch error #1": 1,
+    "network:Batch error #2": 1,
+    "proxy:Batch error #3": 1,
+    "system:System error #15": 1,
+    "pac_validation:Batch error #4": 1,
+    "network:Batch error #5": 1,
+    "proxy:Proxy service error #16": 1
+  },
+  "error_trends": []
+}
